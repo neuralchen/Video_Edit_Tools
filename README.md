@@ -17,6 +17,7 @@ A python tool set for images to video, gif and so on.
 
 ## video to gif:
 - To make a gif from a video file: `python video2gif.py --videoPath [your images] --outputPath [output file path .gif] --duration [animation duration of gif (sencond)] --sampleScale [image sampling scale]`
+![img](https://github.com/XHChen0528/image2video/blob/master/monet.gif)
 
 # Who do i talk to?
 - CXH @ chenxuanhongzju@gmail.com
