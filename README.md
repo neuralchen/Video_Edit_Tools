@@ -13,7 +13,10 @@ A python tool set for images to video, gif and so on.
 - To set sampling scale: `python images2video.py --imagePath [your images] --outputPath [your output file path] --sampleSacle [image sampling scale]`
 
 ## images to gif:
-- To make a gif from a dir: `python image2gif.py --imagePath [your images] --outputPath [output file path] --duration [animation duration of gif sencond] --sampleScale [image sampling scale]`
+- To make a gif from a dir: `python image2gif.py --imagePath [your images] --outputPath [output file path .gif] --duration [animation duration of gif (sencond)] --sampleScale [image sampling scale]`
+
+## video to gif:
+- To make a gif from a video file: `python video2gif.py --videoPath [your images] --outputPath [output file path .gif] --duration [animation duration of gif (sencond)] --sampleScale [image sampling scale]`
 
 # Who do i talk to?
 - CXH @ chenxuanhongzju@gmail.com
