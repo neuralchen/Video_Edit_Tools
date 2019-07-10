@@ -5,6 +5,8 @@ A python tool set for images to video, gif and so on.
 - Python3
 - Opencv
 - tqdm
+- imageio
+- PIL
 
 # Usage:
 ## images to video:
