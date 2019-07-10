@@ -15,5 +15,5 @@ A python tool set for images to video, gif and so on.
 ## images to gif:
 - To make a gif from a dir: `python image2gif.py --imagePath [your images] --outputPath [output file path] --duration [animation duration of gif sencond] --sampleScale [image sampling scale]`
 
-# Who do i takl to?
+# Who do i talk to?
 - CXH @ chenxuanhongzju@gmail.com
